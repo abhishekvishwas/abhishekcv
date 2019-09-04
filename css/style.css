@@ -1,0 +1,19 @@
+img{
+  width: 200px;
+  height: 200px;
+}
+body{
+  font-family: century gothic;
+  background-color: #f7f7f7;
+}
+h1,h3{
+  color: #5d5d5d;
+}
+hr{
+  width: 30%;
+  
+  border-style: dotted none none;
+  border-width: 7px;
+  color: #a0c334;
+
+}
